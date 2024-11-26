@@ -23,3 +23,11 @@ go.work.sum
 
 # env file
 .env
+
+# files used to generate schema
+.src
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
